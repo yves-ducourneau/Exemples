@@ -1,6 +1,6 @@
 fichier initial
-fichier initial
-fichier initial
+fichier initial [travail long ici]
+fichier initial [travail long ici]
 fichier initial
 
 évolution 1 dans master
@@ -10,6 +10,9 @@ fichier initial
 évolution 1 dans master
 évolution 1 dans master
 évolution 1 dans master
+
+[travail long ici]
+[travail long ici]
 
 évolution 2 dans master
 évolution 2 dans master
