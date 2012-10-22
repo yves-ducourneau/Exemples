@@ -14,9 +14,9 @@ fichier initial
 évolution 2 dans master
 évolution 2 dans master
 évolution 2 dans master
-évolution 2 dans master
-évolution 2 dans master
-évolution 2 dans master
+évolution 2 dans master modification dans master (évol. 4)
+évolution 2 dans master modification dans master (évol. 4)
+évolution 2 dans master modification dans master (évol. 4)
 évolution 2 dans master
 
 évolution 3 dans master
@@ -36,4 +36,10 @@ ajout 2 depuis branche travail-yves
 ajout 2 depuis branche travail-yves une petite modification (ajout 3)
 ajout 2 depuis branche travail-yves une petite modification (ajout 3)
 ajout 2 depuis branche travail-yves
+
+évolution 4 dans master
+évolution 4 dans master
+évolution 4 dans master
+évolution 4 dans master
+évolution 4 dans master
 
